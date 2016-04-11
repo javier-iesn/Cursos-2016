@@ -1,0 +1,6 @@
+Recursos
+--------
+
+HTML5/CSS: http://www.abrirllave.com/desarrollo-web/
+Bash Shell Script: http://asanzdiego.blogspot.com.es/2014/10/recursos-de-mi-curso-avanzado-de-bash-shell-script.html
+
